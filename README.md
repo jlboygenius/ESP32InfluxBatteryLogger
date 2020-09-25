@@ -15,3 +15,7 @@ Resistors:
 22k
 
 220k
+
+
+wiring diagram copied from:
+https://hackaday.io/project/14839-car-battery-monitor
